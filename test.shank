@@ -1,0 +1,6 @@
+define pray (arg : int)
+constants savior = "Jesus"
+variables prayed, blessed : boolean
+	prayed := true
+	blessed := true
+
